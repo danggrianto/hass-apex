@@ -1,0 +1,10 @@
+{
+  "domain": "hass-apex",
+  "name": "Apex Fusion",
+  "documentation": "https://github.com/danggrianto/hass-apex",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/danggrianto/hass-apex/issues",
+  "version": "0.0.0",
+  "config_flow": true,
+  "codeowners": ["@danggrianto"]
+}
