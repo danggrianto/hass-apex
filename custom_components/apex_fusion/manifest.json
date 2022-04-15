@@ -1,5 +1,5 @@
 {
-  "domain": "hass-apex",
+  "domain": "apex_fusion",
   "name": "Apex Fusion",
   "documentation": "https://github.com/danggrianto/hass-apex",
   "iot_class": "cloud_polling",
